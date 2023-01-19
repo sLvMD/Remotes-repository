@@ -7,6 +7,7 @@ A symphony of logic,
 A story to be told.
 
 
+
 With every keystroke,
 
 A new verse takes shape,
@@ -14,6 +15,7 @@ A new verse takes shape,
 A world of possibility,
 
 A program to escape.
+
 
 From the simple to the complex,
 
@@ -23,6 +25,7 @@ A puzzle to be solved,
 
 A journey to depart.
 
+
 With each bug squashed,
 
 A victory is won,
@@ -31,6 +34,7 @@ A masterpiece complete,
 
 A job well done.
 
+
 For the coder, the artist,
 
 With a passion to create,
@@ -38,6 +42,7 @@ With a passion to create,
 Programming is a form of expression,
 
 A way to innovate.
+
 
 So let the code flow,
 
